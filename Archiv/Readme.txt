@@ -1,0 +1,1 @@
+Bei Interesse einfach in das Hauptverzeichnis ziehen und es sollte alles normal funktionieren
